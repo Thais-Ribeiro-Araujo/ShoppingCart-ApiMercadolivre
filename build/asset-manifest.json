@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff653e3e.css",
+    "main.js": "/static/js/main.0385dbd7.js",
+    "static/media/uncoloredStar.png": "/static/media/uncoloredStar.b46c50ddbc75be6dfdf2.png",
+    "static/media/coloredStar.png": "/static/media/coloredStar.7f6d8b1bd6ede9aac707.png",
+    "index.html": "/index.html",
+    "main.ff653e3e.css.map": "/static/css/main.ff653e3e.css.map",
+    "main.0385dbd7.js.map": "/static/js/main.0385dbd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff653e3e.css",
+    "static/js/main.0385dbd7.js"
+  ]
+}

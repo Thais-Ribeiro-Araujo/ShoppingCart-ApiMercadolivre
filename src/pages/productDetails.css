@@ -1,0 +1,16 @@
+.detailsPageContainer {
+    display: flex;
+    flex-direction: row;
+    max-width: 500px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .detailsPageContainer img {
+    width: 200px;
+  }
+  
+  .productSection {
+    display: flex;
+    flex-direction: row;
+  }

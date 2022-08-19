@@ -45,4 +45,7 @@ A pasta `helpers` contém os arquivos `fetchItem.js`, `fetchProducts.js`, `getSa
 A pasta `tests`, contém os arquivos `fetchItem.test.js`, `fetchProducts.test.js`, `getSavedCartItems.test.js` e `saveCartItems.test.js`, onde vai implementar os testes para cada uma das funções de mesmo nome.
 
 </section>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 149dc8d27522739040b85adaa977a155ad6f7ef7
